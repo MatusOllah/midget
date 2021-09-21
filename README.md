@@ -2,7 +2,7 @@
 
 Midget is a package manager for Friday Night Funkin' mods (basically a mod manager but without a run feature)
 
-Packages repo: [here](github.com/MatusOllah/midget-pkgs)
+Packages repo: [here](https://github.com/MatusOllah/midget-pkgs)
 
 ## Build instructions
 
